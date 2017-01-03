@@ -1,0 +1,23 @@
+{
+    "name": "flashcard-generator",
+    "version": "1.0.0",
+    "description": "Stores basic front/back flashcards and cloze-deleted flashcards",
+    "main": "flashcard.js",
+    "dependencies": {
+        "inquirer": "^2.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kshiro622/Flashcard-Generator.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kshiro622/Flashcard-Generator/issues"
+    },
+    "homepage": "https://github.com/kshiro622/Flashcard-Generator#readme"
+}
